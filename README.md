@@ -1,5 +1,5 @@
 # 청와대 청원 시각화   
-#### Python, Jupyter notebook, Konlpy, Wordcloud, Selenium(chrome driver), crawling
+#### made with Python, Jupyter notebook, Konlpy, Wordcloud, Selenium(chrome driver), crawling
 -------------
 Screenshots
 
